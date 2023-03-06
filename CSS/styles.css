@@ -71,11 +71,6 @@ input:hover {
     background-color: rgba(160, 252, 252, 0.575);  
 }
 
-input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
-  -webkit-appearance: none;
-  margin: 0;
-}
-
 .error {
     display: block;
     color: rgba(255, 0, 0, 0.541);
